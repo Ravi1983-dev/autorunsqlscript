@@ -1,0 +1,1 @@
+insert into dbo.[empinfo] values (2,'Shankar')
